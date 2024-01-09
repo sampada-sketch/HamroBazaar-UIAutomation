@@ -1,7 +1,7 @@
 # UI Automation - HamroBazaar search using Selenium 4.15.0 with Java Focusing on Page Object Model pattern with page Factory
 
 ## Overview
-This project is intended to use Selenium in Java focusing on Page Object Model (POM) using Page factory. It has been developed using Maven build, Eclipse IDE, JDK 11, and Selenium version 4.15.0. The project aims to automate UI of hamrobazzar web application ( Nepal's Online Marketplace) -https://hamrobazaar.com/
+This project is intended to use Selenium in Java focusing on Page Object Model (POM) using Page factory. It has been developed using Maven build, Eclipse IDE, JDK 11, and Selenium version 4.15.0. The project aims to automate UI of hamrobazaar web application ( Nepal's Online Marketplace) -https://hamrobazaar.com/
 
 ## Key Technologies Used
 1. **Maven Build:** The project is built and managed using Apache Maven, ensuring a streamlined build process and dependency management.
