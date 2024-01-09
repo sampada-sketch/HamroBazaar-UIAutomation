@@ -31,16 +31,16 @@ This project is intended to use Selenium in Java focusing on Page Object Model (
 10. Data extracted after applying filters are also displayed in tabular format in the console of IDE.
 
 ## Project Structure
-project-root
-│
-├── src
-│   ├── main
-│   │   ├── java      
-│   │   ├── resources  
-│   │
-│   ├── test
-│       ├── java       # Both test class and page class can be found here
-                        1) HamroPage.java (Page Class)
-                        2) TestScriptHamro.java (Test Class) - Test script to be executed as "Java Application" 
-│       ├── resources  # Test-specific configuration files and resources
+1. `project-root 
+2. `│ 
+3. `├── src 
+4. `│ ├── main 
+5. `│ │ ├── java 
+6. `│ │ ├── resources 
+7. `│ │
+8. `│ ├── test 
+9. `│ │ ├── java # Both test class and page class can be found here 
+10. `│ │ │ ├── HamroPage.java (Page Class) 
+11. `│ │ │ ├── TestScriptHamro.java (Test Class) - Test script to be executed as "Java Application" 
+12. `│ │ ├── resources # Test-specific configuration files and resources 
 
