@@ -11,7 +11,7 @@
 ## Project Setup:
 1. Download [Eclipse](https://www.eclipse.org/downloads/) or [IntelliJ](https://www.jetbrains.com/idea/download/).
 2. Download Jdk 8.0 or above.
-3. Import the project "HamroBazaar".
+3. Clone and Import the project "HamroBazaar" from repository (Branch : **Master**)
 4. Add dependency of WebDriverManager in `pom.xml`.
 5. Add dependency of Selenium in `pom.xml`.
 6. Alternatively, download Selenium jar and configure in build path by adding external JARs.
