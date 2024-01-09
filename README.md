@@ -20,15 +20,16 @@ This project is intended to use Selenium in Java focusing on Page Object Model (
 1. Download [Eclipse](https://www.eclipse.org/downloads/) or [IntelliJ](https://www.jetbrains.com/idea/download/).
 2. Download Jdk 8.0 or above.
 3. Clone and Import the project "HamroBazaar" from repository (Branch : **Master**)
-4. Add dependency of WebDriverManager in `pom.xml`.
-5. Add dependency of Selenium in `pom.xml`.
-6. Alternatively, download Selenium jar and configure in build path by adding external JARs.
-7. As the code is submitted as per POM design pattern, there are two page classes:
+   Note: If you are using IntelliJ, Test Automation Plug-in is suggested by IntelliJ you should install it.
+5. Add dependency of WebDriverManager in `pom.xml`.
+6. Add dependency of Selenium in `pom.xml`.
+7. Alternatively, download Selenium jar and configure in build path by adding external JARs.
+8. As the code is submitted as per POM design pattern, there are two page classes:
    - **Page Class:** Represents a web page, encapsulating its elements and functionalities. (`HamroPage.java`)
    - **Test Class:** Contains test methods that interact with the page elements using the methods provided by the corresponding Page Class. (`TestScriptHamro.java`)
-8. Execute `TestScriptHamro.java` as Java Application.
-9. CSV file is created in `C:/` drive inside the folder `CSV` (folder is self-created - no need to create one).
-10. Data extracted after applying filters are also displayed in tabular format in the console of IDE.
+9. Execute `TestScriptHamro.java` as Java Application.
+10. CSV file is created in `C:/` drive inside the folder `CSV` (folder is self-created - no need to create one).
+11. Data extracted after applying filters are also displayed in tabular format in the console of IDE.
 
 ## Project Structure
 1. `project-root 
