@@ -20,7 +20,7 @@ This project is intended to use Selenium in Java focusing on Page Object Model (
 1. Download [Eclipse](https://www.eclipse.org/downloads/) or [IntelliJ](https://www.jetbrains.com/idea/download/).
 2. Download Jdk 8.0 or above.
 3. Clone and Import the project "HamroBazaar" from repository (Branch : **Master**)
-   Note: If you are using IntelliJ, Test Automation Plug-in is suggested by IntelliJ you should install it.
+   Note: If you are using IntelliJ and executing selenium for teh first time,then Test Automation Plug-in is suggested by IntelliJ you should install it.
 5. Add dependency of WebDriverManager in `pom.xml`.
 6. Add dependency of Selenium in `pom.xml`.
 7. Alternatively, download Selenium jar and configure in build path by adding external JARs.
