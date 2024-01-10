@@ -38,7 +38,7 @@ This project is intended to use Selenium in Java focusing on Page Object Model (
 ## Project Structure
 1. `project-root 
 2. `│ 
-3. `├── src 
+3. `├── src (not in use so hidden by Git)
 4. `│ ├── main 
 5. `│ │ ├── java 
 6. `│ │ ├── resources 
